@@ -1,0 +1,7 @@
+{
+  "projectName": "rrg-bolt-comp-h3",
+  "template": "vite-react-ts",
+  "compId": "h3",
+  "compTitle": "The December Guide",
+  "compSubtitle": "An advent-style planning hub revealing one short read per December day."
+}
